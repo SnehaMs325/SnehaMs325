@@ -83,8 +83,9 @@ When I’m not coding, I enjoy:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SnehaMs325&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/GitHub-SnehaMs325-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
 </p>
+
 
 ---
 
